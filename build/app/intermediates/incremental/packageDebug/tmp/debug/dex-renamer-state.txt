@@ -1,0 +1,4 @@
+#Mon Nov 16 05:34:51 SGT 2020
+base.0=E\:\\AoiMizune HW\\3y1s\\MobDev\\FlutterProjects\\code\\midterm_project\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
